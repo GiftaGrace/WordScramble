@@ -41,7 +41,7 @@ To play **Word Scramble** on your local machine:
 
 ```
 Welcome to Word Scramble!
-The scrambled word is: sruapmle
+The scrambled word is: apsmel
 Unscramble the word: sample
 Congratulations! You've unscrambled the word in 1 attempt.
 ```
